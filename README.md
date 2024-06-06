@@ -21,12 +21,12 @@
 11. HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes [Paper](https://arxiv.org/pdf/2401.00365)
 12. Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841)
 13. Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/abs/2309.15505)
-14. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
-15. Conditional image generation with pixelcnn decoders [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper_files/paper/2016/file/b1301141feffabac455e1f90a7de2054-Paper.pdf), NeurIPS 2016
-16. Planting a seed of vision in large language model [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
-17. Towards accurate image coding: Improved autoregressive image generation with dynamic vector quantization [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf), CVPR 2023
-18. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
-19. Language model beats diffusion–tokenizer is key to visual generation [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
+14. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
+15. Conditional image generation with pixelcnn decoders [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/b1301141feffabac455e1f90a7de2054-Paper.pdf), NeurIPS 2016
+16. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
+17. Towards accurate image coding: Improved autoregressive image generation with dynamic vector quantization [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf), CVPR 2023
+18. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
+19. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
 20. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
 21. 
 
@@ -40,4 +40,4 @@
 5. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366)
 6. MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis [Paper](https://arxiv.org/pdf/2211.09117)
 7. Sequential modeling enables scalable learning for large vision models [Paper](https://arxiv.org/abs/2312.00785), Arxiv 2023
-8.  4m: Massively multimodal masked modeling [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
+8.  4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
