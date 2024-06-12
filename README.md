@@ -43,4 +43,4 @@
 6. MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis [Paper](https://arxiv.org/pdf/2211.09117)
 7. Sequential modeling enables scalable learning for large vision models [Paper](https://arxiv.org/abs/2312.00785), Arxiv 2023
 8.  4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
-9.  Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), NeurIPS 2023
+9.  Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
