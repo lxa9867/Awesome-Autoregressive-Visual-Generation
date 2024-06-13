@@ -1,4 +1,4 @@
-# Awesome-Autoregressive-Visual-Generation
+# Awesome-Autoregressive-Visual/Acoustic-Generation
 
 ## Speech/Audio Tokenizers
 
