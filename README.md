@@ -29,8 +29,8 @@
 18. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
 19. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
 20. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
-21. An Image is Worth 32 Tokens for Reconstruction and Generation[Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
-22. 
+21. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
+22. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/pdf/2406.07548), Arxiv 2024
 
 
 ## Image Generator (Non-diffusion)
