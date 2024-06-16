@@ -3,9 +3,10 @@
 ## Speech/Audio Tokenizers
 
 1. SoundStream: An End-to-End Neural Audio Codec [Paper](https://arxiv.org/pdf/2107.03312)
-2. HIFI-CODEC: GROUP-RESIDUAL VECTOR QUANTIZATION FOR HIGH FIDELITY AUDIO CODEC [Paper](https://arxiv.org/pdf/2305.02765)
-3. Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition [Paper](https://arxiv.org/pdf/2202.01855)
-4. WaveNet: A Generative Model for Raw Audio [Paper](https://arxiv.org/pdf/1609.03499)
+2. ENCODEC: High Fidelity Neural Audio Compression [Paper](https://arxiv.org/pdf/2210.13438)
+3. HIFI-CODEC: GROUP-RESIDUAL VECTOR QUANTIZATION FOR HIGH FIDELITY AUDIO CODEC [Paper](https://arxiv.org/pdf/2305.02765)
+4. Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition [Paper](https://arxiv.org/pdf/2202.01855)
+5. WaveNet: A Generative Model for Raw Audio [Paper](https://arxiv.org/pdf/1609.03499)
 
 ## Image Tokenizers
 
