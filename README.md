@@ -1,12 +1,5 @@
-# Awesome-Autoregressive-Visual/Acoustic-Generation
-
-## Speech/Audio Tokenizers
-
-1. SoundStream: An End-to-End Neural Audio Codec [Paper](https://arxiv.org/pdf/2107.03312)
-2. ENCODEC: High Fidelity Neural Audio Compression [Paper](https://arxiv.org/pdf/2210.13438)
-3. HIFI-CODEC: GROUP-RESIDUAL VECTOR QUANTIZATION FOR HIGH FIDELITY AUDIO CODEC [Paper](https://arxiv.org/pdf/2305.02765)
-4. Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition [Paper](https://arxiv.org/pdf/2202.01855)
-5. WaveNet: A Generative Model for Raw Audio [Paper](https://arxiv.org/pdf/1609.03499)
+# Awesome-Autoregressive-Visual-Generation
+This is a repo to track the latest autoregressive viusal generation papers.
 
 ## Image Tokenizers
 
@@ -31,10 +24,10 @@
 19. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
 20. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
 21. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
-22. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/pdf/2406.07548), Arxiv 2024
+22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 
 
-## Image Generator (Non-diffusion)
+## Auto Regressive Image Generation
 
 1. DiVAE : Photorealistic Images Synthesis with Denoising Diffusion Decoder [Paper](https://arxiv.org/pdf/2206.00386)
 2. Vector Quantized Diffusion Model for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2111.14822)
@@ -43,5 +36,8 @@
 5. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366)
 6. MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis [Paper](https://arxiv.org/pdf/2211.09117)
 7. Sequential modeling enables scalable learning for large vision models [Paper](https://arxiv.org/abs/2312.00785), Arxiv 2023
-8.  4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
-9.  Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
+8. 4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
+9. Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
+10. ControlVAR: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750), Arxiv 2024
+11. Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838), Arxiv 2024
+    
