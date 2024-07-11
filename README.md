@@ -27,7 +27,7 @@ This is a repo to track the latest autoregressive viusal generation papers.
 22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 
 
-## Auto Regressive Image Generation
+## AutoRegressive Image Generation
 
 1. DiVAE : Photorealistic Images Synthesis with Denoising Diffusion Decoder [Paper](https://arxiv.org/pdf/2206.00386)
 2. Vector Quantized Diffusion Model for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2111.14822)
@@ -40,4 +40,5 @@ This is a repo to track the latest autoregressive viusal generation papers.
 9. Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
 10. ControlVAR: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750), Arxiv 2024
 11. Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838), Arxiv 2024
+12. MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis  [Paper](https://arxiv.org/pdf/2407.07614), Arxiv 2024
     
