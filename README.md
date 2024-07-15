@@ -41,4 +41,5 @@ This is a repo to track the latest autoregressive viusal generation papers.
 10. ControlVAR: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750), Arxiv 2024
 11. Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838), Arxiv 2024
 12. MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis  [Paper](https://arxiv.org/pdf/2407.07614), Arxiv 2024
+13. ANOLE: AnOpen,Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation [Paper](https://arxiv.org/pdf/2407.06135v1), Arxiv 2024
     
