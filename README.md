@@ -2,18 +2,16 @@
 This is a repo to track the latest autoregressive viusal generation papers.
 
 ## Image Tokenizers
-
-
 1. Conditional image generation with pixelcnn decoders [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/b1301141feffabac455e1f90a7de2054-Paper.pdf), NeurIPS 2016
 2. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937), NeurIPS 2017
 3. Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/abs/1906.00446), NeurIPS 2019
 4. Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841), CVPR 2021
 5. Autoregressive Image Generation using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941), CVPR 2022
-6. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366), Arxiv 2022
+6. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers (for understanding) [Paper](https://arxiv.org/pdf/2208.06366), Arxiv 2022
 7. Vector-quantized Image Modeling with Improved VQGAN [Paper](https://arxiv.org/pdf/2110.04627), ICLR 2022
 8. MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation [Paper](https://arxiv.org/abs/2209.09002), NeurIPS 2022
-9. PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers [Paper](https://arxiv.org/pdf/2111.12710), AAAI 2023
-10. All in Tokens: Unifying Output Space of Visual Tasks via Soft Token [Paper](https://arxiv.org/pdf/2301.02229), CVPR 2023
+9. PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers (for understanding) [Paper](https://arxiv.org/pdf/2111.12710), AAAI 2023
+10. All in Tokens: Unifying Output Space of Visual Tasks via Soft Token (for understanding) [Paper](https://arxiv.org/pdf/2301.02229), CVPR 2023
 11. Regularized Vector Quantization for Tokenized Image Synthesis [Paper](https://arxiv.org/pdf/2303.06424), CVPR 2023
 12. Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization [Paper](https://arxiv.org/pdf/2305.11718), CVPR 2023
 13. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
