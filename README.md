@@ -15,15 +15,14 @@ This is a repo to track the latest autoregressive viusal generation papers.
 11. Regularized Vector Quantization for Tokenized Image Synthesis [Paper](https://arxiv.org/pdf/2303.06424), CVPR 2023
 12. Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization [Paper](https://arxiv.org/pdf/2305.11718), CVPR 2023
 13. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
-14. Towards accurate image coding: Improved autoregressive image generation with dynamic vector quantization [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf), CVPR 2023
-15. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
-16. HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes [Paper](https://arxiv.org/pdf/2401.00365), TMLR 2024
-17. Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/abs/2309.15505), ICLR 2024
-18. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
-19. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
-20. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
-21. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
-22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
+14. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
+15. HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes [Paper](https://arxiv.org/pdf/2401.00365), TMLR 2024
+16. Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/abs/2309.15505), ICLR 2024
+17. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
+18. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
+29. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
+20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
+21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
