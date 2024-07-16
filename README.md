@@ -3,29 +3,29 @@ This is a repo to track the latest autoregressive viusal generation papers.
 
 ## Image Tokenizers
 
-1. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937)
-2. Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/abs/1906.00446)
-3. Autoregressive Image Generation using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941)
-4. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366)
-5. Vector-quantized Image Modeling with Improved VQGAN [Paper](https://arxiv.org/pdf/2110.04627)
-6. MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation [Paper](https://arxiv.org/abs/2209.09002)
-7. PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers [Paper](https://arxiv.org/pdf/2111.12710)
-8. All in Tokens: Unifying Output Space of Visual Tasks via Soft Token [Paper](https://arxiv.org/pdf/2301.02229)
-9. Regularized Vector Quantization for Tokenized Image Synthesis [Paper](https://arxiv.org/pdf/2303.06424)
-10. Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization [Paper](https://arxiv.org/pdf/2305.11718)
-11. HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes [Paper](https://arxiv.org/pdf/2401.00365)
-12. Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841)
-13. Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/abs/2309.15505)
-14. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
-15. Conditional image generation with pixelcnn decoders [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/b1301141feffabac455e1f90a7de2054-Paper.pdf), NeurIPS 2016
-16. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
-17. Towards accurate image coding: Improved autoregressive image generation with dynamic vector quantization [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf), CVPR 2023
-18. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
+
+1. Conditional image generation with pixelcnn decoders [Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/b1301141feffabac455e1f90a7de2054-Paper.pdf), NeurIPS 2016
+2. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937), NeurIPS 2017
+3. Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/abs/1906.00446), NeurIPS 2019
+4. Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841), CVPR 2021
+5. Autoregressive Image Generation using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941), CVPR 2022
+6. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366), Arxiv 2022
+7. Vector-quantized Image Modeling with Improved VQGAN [Paper](https://arxiv.org/pdf/2110.04627), ICLR 2022
+8. MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation [Paper](https://arxiv.org/abs/2209.09002), NeurIPS 2022
+9. PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers [Paper](https://arxiv.org/pdf/2111.12710), AAAI 2023
+10. All in Tokens: Unifying Output Space of Visual Tasks via Soft Token [Paper](https://arxiv.org/pdf/2301.02229), CVPR 2023
+11. Regularized Vector Quantization for Tokenized Image Synthesis [Paper](https://arxiv.org/pdf/2303.06424), CVPR 2023
+12. Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization [Paper](https://arxiv.org/pdf/2305.11718), CVPR 2023
+13. Not all image regionsmatter: Masked vector quantization for autoregressive image generation [Paper], CVPR 2023
+14. Towards accurate image coding: Improved autoregressive image generation with dynamic vector quantization [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf), CVPR 2023
+15. Spae: Semantic pyramid autoencoder for multimodal generation with frozen llms [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), NeurIPS 2023
+16. HQ-VAE: Hierarchical Discrete Representation Learning with Variational Bayes [Paper](https://arxiv.org/pdf/2401.00365), TMLR 2024
+17. Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/abs/2309.15505), ICLR 2024(https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf), CVPR 2023
+18. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
 19. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
 20. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
 21. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
 22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
-
 
 ## AutoRegressive Image Generation
 
