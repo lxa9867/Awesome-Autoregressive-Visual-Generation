@@ -1,5 +1,5 @@
 # Awesome-Autoregressive-Visual-Generation
-This is a repo to track the latest autoregressive viusal generation papers.
+This is a repo to track the latest autoregressive visual generation papers.
 
 ## Image Tokenizers
 1. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937), NeurIPS 2017
