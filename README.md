@@ -22,7 +22,8 @@ This is a repo to track the latest autoregressive visual generation papers.
 18. Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis [Paper](https://arxiv.org/abs/2212.03185), CVPR 2024
 19. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
 20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
-21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%, [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
+21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
+22. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
