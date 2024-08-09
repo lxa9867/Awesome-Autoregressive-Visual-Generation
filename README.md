@@ -42,4 +42,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 13. MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis  [Paper](https://arxiv.org/pdf/2407.07614), Arxiv 2024
 14. ANOLE: AnOpen,Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation [Paper](https://arxiv.org/pdf/2407.06135v1), Arxiv 2024
 15. VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/abs/2408.01181), Arxiv 24
+16. Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://www.arxiv.org/abs/2408.02657), Arxiv 24
     
