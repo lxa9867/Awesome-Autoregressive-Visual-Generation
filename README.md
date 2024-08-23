@@ -44,4 +44,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 15. VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/abs/2408.01181), Arxiv 24
 16. Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://www.arxiv.org/abs/2408.02657), Arxiv 24
 17. Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039), Arxiv 2024
+18. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
     
