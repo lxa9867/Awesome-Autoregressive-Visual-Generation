@@ -24,6 +24,8 @@ This is a repo to track the latest autoregressive visual generation papers.
 20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
 21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 22. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
+23. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), Arxiv 2024
+24. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
