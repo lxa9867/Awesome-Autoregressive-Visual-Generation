@@ -26,6 +26,7 @@ This is a repo to track the latest autoregressive visual generation papers.
 22. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
 23. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), Arxiv 2024
 24. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
+25. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
