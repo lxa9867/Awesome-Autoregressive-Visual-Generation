@@ -20,13 +20,14 @@ This is a repo to track the latest autoregressive visual generation papers.
 16. Planting a seed of vision in large language model [Paper](https://openreview.net/pdf?id=0Nui91LBQS), ICLR 2024
 17. Language model beats diffusion–tokenizer is key to visual generation [Paper](https://openreview.net/pdf?id=gzqrANCF4g), ICLR 2024
 18. Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis [Paper](https://arxiv.org/abs/2212.03185), CVPR 2024
-19. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), Arxiv 2024
-20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), Arxiv 2024
+19. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), NeurIPS 2024
+20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), NeurIPS 2024
 21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 22. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
 23. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), Arxiv 2024
 24. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
 25. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), Arxiv 2024
+26. ImageFolder: Autoregressive Image Generation with Folded Tokens [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
