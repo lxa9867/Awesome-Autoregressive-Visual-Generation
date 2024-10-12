@@ -50,4 +50,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 17. Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039), Arxiv 2024
 18. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
 19. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), Arxiv 2024
+20. DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159), Arxiv 2024
     
