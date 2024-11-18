@@ -22,12 +22,16 @@ This is a repo to track the latest autoregressive visual generation papers.
 18. Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis [Paper](https://arxiv.org/abs/2212.03185), CVPR 2024
 19. Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/abs/2404.02905), NeurIPS 2024
 20. An Image is Worth 32 Tokens for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2406.07550), NeurIPS 2024
-21. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
-22. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
-23. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), Arxiv 2024
-24. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
-25. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), Arxiv 2024
-26. ImageFolder: Autoregressive Image Generation with Folded Tokens [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
+21. Image Understanding Makes for A Good Tokenizer for Image Generation [Paper](https://arxiv.org/abs/2411.04406), NeurIPS 2024
+22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
+23. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
+24. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), Arxiv 2024
+25. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
+26. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), Arxiv 2024
+27. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/abs/2406.07548), Arxiv 2024
+28. Cosmos Tokenizer: A suite of image and video neural tokenizers [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
+29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
+30. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
@@ -51,4 +55,11 @@ This is a repo to track the latest autoregressive visual generation papers.
 18. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
 19. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), Arxiv 2024
 20. DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159), Arxiv 2024
+21. Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863), Arxiv 2024
+22. Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511), Arxiv 2024
+23. M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/abs/2411.10433), Arxiv 2024
+24. MMAR:TowardsLossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/pdf/2410.10798), Arxiv 2024
+25. Randomized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2411.00776), Arxiv 2024
+26. Elucidating the design space of language models for image generation [Paper](https://arxiv.org/abs/2410.16257), Arxiv 2024
+27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), Arxiv 2024
     
