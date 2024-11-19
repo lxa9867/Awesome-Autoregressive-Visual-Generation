@@ -62,4 +62,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 25. Randomized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2411.00776), Arxiv 2024
 26. Elucidating the design space of language models for image generation [Paper](https://arxiv.org/abs/2410.16257), Arxiv 2024
 27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), Arxiv 2024
+28. CART: Compositional Auto-Regressive Transformer for Image Generation [Paper](https://arxiv.org/html/2411.10180v1), Arxiv 2024
     
