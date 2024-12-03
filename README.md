@@ -31,9 +31,10 @@ This is a repo to track the latest autoregressive visual generation papers.
 27. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/abs/2406.07548), Arxiv 2024
 28. Cosmos Tokenizer: A suite of image and video neural tokenizers [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
 29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
-30. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
-31. Factorized Visual Tokenization and Generation [Paper](https://arxiv.org/abs/2411.16681), Arxiv 2024
-32. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
+30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
+31. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
+32. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
+33. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
