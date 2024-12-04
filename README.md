@@ -33,8 +33,9 @@ This is a repo to track the latest autoregressive visual generation papers.
 29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
 30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
 31. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
-32. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
-33. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
+32. MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding [Paper](https://www.arxiv.org/pdf/2411.17762), Arxiv 2024
+33. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
+34. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
@@ -67,4 +68,6 @@ This is a repo to track the latest autoregressive visual generation papers.
 27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), Arxiv 2024
 28. CART: Compositional Auto-Regressive Transformer for Image Generation [Paper](https://arxiv.org/html/2411.10180v1), Arxiv 2024
 29. CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/abs/2411.17787), Arxiv 2024
+30. X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824), Arxiv 2024
+31. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
     
