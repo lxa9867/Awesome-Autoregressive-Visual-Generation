@@ -34,8 +34,9 @@ This is a repo to track the latest autoregressive visual generation papers.
 30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
 31. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
 32. MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding [Paper](https://www.arxiv.org/pdf/2411.17762), Arxiv 2024
-33. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
-34. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
+33. TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2412.03069), Arxiv 2024
+34. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
+35. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
