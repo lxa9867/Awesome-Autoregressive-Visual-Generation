@@ -37,6 +37,7 @@ This is a repo to track the latest autoregressive visual generation papers.
 33. TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2412.03069), Arxiv 2024
 34. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
 35. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), Arxiv 2024
+36. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
