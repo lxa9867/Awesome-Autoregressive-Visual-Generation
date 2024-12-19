@@ -40,6 +40,8 @@ This is a repo to track the latest autoregressive visual generation papers.
 36. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692), Arxiv 2024
 37. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/abs/2412.05796), Arxiv 2024
 38. Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation [Paper](https://arxiv.org/abs/2412.04432), Arxiv 2024
+39. Scaling Image Tokenizers with Grouped Spherical Quantization  [Paper](https://arxiv.org/abs/2412.02632), Arxiv 2024
+40. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2412.02692), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
@@ -75,4 +77,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 30. X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824), Arxiv 2024
 31. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
 32. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
+33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
     
