@@ -78,4 +78,4 @@ This is a repo to track the latest autoregressive visual generation papers.
 31. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
 32. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
 33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
-    
+34. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
