@@ -42,6 +42,7 @@ This is a repo to track the latest autoregressive visual generation papers.
 38. Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation [Paper](https://arxiv.org/abs/2412.04432), Arxiv 2024
 39. Scaling Image Tokenizers with Grouped Spherical Quantization  [Paper](https://arxiv.org/abs/2412.02632), Arxiv 2024
 40. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2412.02692), Arxiv 2024
+41. Spectral Image Tokenizer [Paper](https://arxiv.org/pdf/2412.09607), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
