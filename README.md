@@ -84,3 +84,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
 34. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
 35. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
+36. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
+37. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
