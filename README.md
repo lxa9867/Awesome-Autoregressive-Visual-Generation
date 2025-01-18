@@ -46,6 +46,7 @@ This is a repo to track the latest autoregressive visual generation papers.
 42. Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens [Paper](https://arxiv.org/pdf/2501.07730), Arxiv 2024
 43. Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2501.09755), Arxiv 2024
 44. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/pdf/2412.05796), Arxiv 2024
+45. Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models [Paper](https://arxiv.org/abs/2501.01423), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
