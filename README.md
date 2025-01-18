@@ -43,6 +43,10 @@ This is a repo to track the latest autoregressive visual generation papers.
 39. Scaling Image Tokenizers with Grouped Spherical Quantization  [Paper](https://arxiv.org/abs/2412.02632), Arxiv 2024
 40. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2412.02692), Arxiv 2024
 41. Spectral Image Tokenizer [Paper](https://arxiv.org/pdf/2412.09607), Arxiv 2024
+42. Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens [Paper](https://arxiv.org/pdf/2501.07730), Arxiv 2024
+43. Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2501.09755), Arxiv 2024
+44. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/pdf/2412.05796), Arxiv 2024
+45. 
 
 ## AutoRegressive Image Generation
 
@@ -80,3 +84,4 @@ This is a repo to track the latest autoregressive visual generation papers.
 32. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
 33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
 34. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
+35. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
