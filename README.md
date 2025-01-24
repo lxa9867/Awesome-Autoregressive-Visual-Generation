@@ -89,3 +89,4 @@ This is a repo to track the latest autoregressive visual generation papers.
 36. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
 37. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
 38. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
+39. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
