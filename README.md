@@ -1,5 +1,7 @@
 # Awesome-Autoregressive-Visual-Generation
-This is a repo to track the latest autoregressive visual generation papers.
+This is a repo to track the latest autoregressive visual generation papers 🌟.
+
+In addition, I am also maintaining an open-source high-performance image tokenization framework [XQ-GAN](https://github.com/lxa9867/ImageFolder) 🚀.
 
 ## Image Tokenizers
 1. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937), NeurIPS 2017
@@ -28,14 +30,14 @@ This is a repo to track the latest autoregressive visual generation papers.
 24. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), ICLR 2024
 25. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
 26. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), TMLR 2024
-27. **ImageFolder: Autoregressive Image Generation with Folded Tokens** 🚀 [Paper](https://arxiv.org/pdf/2410.01756), ICLR 2024
+27. ImageFolder: Autoregressive Image Generation with Folded Tokens 🚀 [Paper](https://arxiv.org/pdf/2410.01756), ICLR 2024
 28. Cosmos Tokenizer: A suite of image and video neural tokenizers [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
 29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
 30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
 31. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
 32. MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding [Paper](https://www.arxiv.org/pdf/2411.17762), Arxiv 2024
 33. TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2412.03069), Arxiv 2024
-34. **XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation** [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
+34. XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
 35. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/abs/2406.07548), Arxiv 2024
 36. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692), Arxiv 2024
 37. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/abs/2412.05796), Arxiv 2024
@@ -90,3 +92,5 @@ This is a repo to track the latest autoregressive visual generation papers.
 37. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
 38. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
 39. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
+40. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
+41. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
