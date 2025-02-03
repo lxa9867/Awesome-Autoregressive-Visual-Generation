@@ -27,10 +27,10 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 21. Image Understanding Makes for A Good Tokenizer for Image Generation [Paper](https://arxiv.org/abs/2411.04406), NeurIPS 2024
 22. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837), Arxiv 2024
 23. Quantised Global Autoencoder: A Holistic Approach to Representing Visual Data [Paper](https://arxiv.org/pdf/2407.11913), Arxiv 2024
-24. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), ICLR 2024
+24. VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2409.04429), ICLR 2025
 25. OPEN-MAGVIT2: AN OPEN-SOURCE PROJECT TOWARD DEMOCRATIZING AUTO-REGRESSIVE VISUAL GENERATION [Paper](https://arxiv.org/pdf/2409.04410), Arxiv 2024
 26. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), TMLR 2024
-27. ImageFolder: Autoregressive Image Generation with Folded Tokens 🚀 [Paper](https://arxiv.org/pdf/2410.01756), ICLR 2024
+27. ImageFolder: Autoregressive Image Generation with Folded Tokens 🚀 [Paper](https://arxiv.org/pdf/2410.01756), ICLR 2025
 28. Cosmos Tokenizer: A suite of image and video neural tokenizers [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
 29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
 30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
@@ -71,7 +71,7 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 16. Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://www.arxiv.org/abs/2408.02657), Arxiv 24
 17. Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039), Arxiv 2024
 18. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
-19. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), ICLR 2024
+19. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), ICLR 2025
 20. DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159), Arxiv 2024
 21. Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863), Arxiv 2024
 22. Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511), Arxiv 2024
@@ -79,7 +79,7 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 24. MMAR:TowardsLossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/pdf/2410.10798), Arxiv 2024
 25. Randomized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2411.00776), Arxiv 2024
 26. Elucidating the design space of language models for image generation [Paper](https://arxiv.org/abs/2410.16257), Arxiv 2024
-27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), ICLR 2024
+27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), ICLR 2025
 28. CART: Compositional Auto-Regressive Transformer for Image Generation [Paper](https://arxiv.org/html/2411.10180v1), Arxiv 2024
 29. CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/abs/2411.17787), Arxiv 2024
 30. X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824), Arxiv 2024
