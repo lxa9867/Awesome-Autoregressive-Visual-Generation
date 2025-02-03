@@ -32,24 +32,23 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 26. MaskBit: Embedding-free Image Generation via Bit Tokens [Paper](https://arxiv.org/pdf/2409.16211), TMLR 2024
 27. ImageFolder: Autoregressive Image Generation with Folded Tokens 🚀 [Paper](https://arxiv.org/pdf/2410.01756), ICLR 2025
 28. Cosmos Tokenizer: A suite of image and video neural tokenizers [Website](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
-29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024
-30. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
-31. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
-32. MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding [Paper](https://www.arxiv.org/pdf/2411.17762), Arxiv 2024
-33. TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2412.03069), Arxiv 2024
-34. XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
-35. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/abs/2406.07548), Arxiv 2024
-36. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692), Arxiv 2024
-37. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/abs/2412.05796), Arxiv 2024
-38. Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation [Paper](https://arxiv.org/abs/2412.04432), Arxiv 2024
-39. Scaling Image Tokenizers with Grouped Spherical Quantization  [Paper](https://arxiv.org/abs/2412.02632), Arxiv 2024
-40. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2412.02692), Arxiv 2024
-41. Spectral Image Tokenizer [Paper](https://arxiv.org/pdf/2412.09607), Arxiv 2024
-42. Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens [Paper](https://arxiv.org/pdf/2501.07730), Arxiv 2024
-43. Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2501.09755), Arxiv 2024
-44. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/pdf/2412.05796), Arxiv 2024
-45. Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models [Paper](https://arxiv.org/abs/2501.01423), Arxiv 2024
-46. One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression [Paper](https://arxiv.org/abs/2501.10064), Arxiv 2024
+29. Adaptive Length Image Tokenization via Recurrent Allocation [Paper](https://arxiv.org/abs/2411.02393), Arxiv 2024 
+30. Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/abs/2410.12490), Arxiv 2024
+31. MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding [Paper](https://www.arxiv.org/pdf/2411.17762), Arxiv 2024
+32. TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2412.03069), Arxiv 2024
+33. XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/abs/2412.01762), Arxiv 2024
+34. Image and Video Tokenization with Binary Spherical Quantization [Paper](https://arxiv.org/abs/2406.07548), Arxiv 2024
+35. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692), Arxiv 2024
+36. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/abs/2412.05796), Arxiv 2024
+37. Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation [Paper](https://arxiv.org/abs/2412.04432), Arxiv 2024
+38. Scaling Image Tokenizers with Grouped Spherical Quantization  [Paper](https://arxiv.org/abs/2412.02632), Arxiv 2024
+39. Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2412.02692), Arxiv 2024
+40. Spectral Image Tokenizer [Paper](https://arxiv.org/pdf/2412.09607), Arxiv 2024
+41. Democratizing Text-to-Image Masked Generative Models with Compact Text-Aware One-Dimensional Tokens [Paper](https://arxiv.org/pdf/2501.07730), Arxiv 2024
+42. Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [Paper](https://arxiv.org/pdf/2501.09755), Arxiv 2024
+43. Language-Guided Image Tokenization for Generation [Paper](https://arxiv.org/pdf/2412.05796), Arxiv 2024
+44. Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models [Paper](https://arxiv.org/abs/2501.01423), Arxiv 2024
+45. One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression [Paper](https://arxiv.org/abs/2501.10064), Arxiv 2024
 
 ## AutoRegressive Image Generation
 
@@ -86,11 +85,12 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 31. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
 32. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
 33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
-34. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
-35. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
-36. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
-37. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
-38. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
-39. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
-40. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
-41. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
+34. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
+35. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
+36. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
+37. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
+38. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
+39. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
+40. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
+41. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
+42. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
