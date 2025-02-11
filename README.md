@@ -61,38 +61,37 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 6. BEIT V2: Masked Image Modeling with Vector-Quantized Visual Tokenizers [Paper](https://arxiv.org/pdf/2208.06366)
 7. MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis [Paper](https://arxiv.org/pdf/2211.09117)
 8. Sequential modeling enables scalable learning for large vision models [Paper](https://arxiv.org/abs/2312.00785), Arxiv 2023
-9. MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis [Paper](https://arxiv.org/pdf/2211.09117), CVPR 2023
-10. 4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
-11. Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
-12. ControlVAR: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750), Arxiv 2024
-13. Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838), Arxiv 2024
-14. MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis  [Paper](https://arxiv.org/pdf/2407.07614), Arxiv 2024
-15. ANOLE: AnOpen,Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation [Paper](https://arxiv.org/pdf/2407.06135v1), Arxiv 2024
-16. VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/abs/2408.01181), Arxiv 24
-17. Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://www.arxiv.org/abs/2408.02657), Arxiv 24
-18. Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039), Arxiv 2024
-19. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
-20. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), ICLR 2025
-21. DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159), Arxiv 2024
-22. Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863), Arxiv 2024
-23. Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511), Arxiv 2024
-24. M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/abs/2411.10433), Arxiv 2024
-25. MMAR:TowardsLossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/pdf/2410.10798), Arxiv 2024
-26. Randomized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2411.00776), Arxiv 2024
-27. Elucidating the design space of language models for image generation [Paper](https://arxiv.org/abs/2410.16257), Arxiv 2024
-28. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), ICLR 2025
-29. CART: Compositional Auto-Regressive Transformer for Image Generation [Paper](https://arxiv.org/html/2411.10180v1), Arxiv 2024
-30. CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/abs/2411.17787), Arxiv 2024
-31. X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824), Arxiv 2024
-32. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
-33. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
-34. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
-35. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
-36. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
-37. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
-38. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
-39. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
-40. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
-41. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
-42. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
-43. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
+9. 4m: Massively multimodal masked modeling [Paper](https://openreview.net/pdf?id=TegmlsD8oQ), NeurIPS 2023
+10. Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/abs/2406.06525), Arxiv 2024
+11. ControlVAR: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750), Arxiv 2024
+12. Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838), Arxiv 2024
+13. MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis  [Paper](https://arxiv.org/pdf/2407.07614), Arxiv 2024
+14. ANOLE: AnOpen,Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation [Paper](https://arxiv.org/pdf/2407.06135v1), Arxiv 2024
+15. VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/abs/2408.01181), Arxiv 24
+16. Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://www.arxiv.org/abs/2408.02657), Arxiv 24
+17. Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039), Arxiv 2024
+18. Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/abs/2408.12245), Arxiv 2024
+19. SHOW-O: ONE SINGLE TRANSFORMER TO UNIFY MULTIMODAL UNDERSTANDING AND GENERATION [Paper](https://showlab.github.io/Show-o/assets/show-o.pdf), ICLR 2025
+20. DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159), Arxiv 2024
+21. Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863), Arxiv 2024
+22. Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511), Arxiv 2024
+23. M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/abs/2411.10433), Arxiv 2024
+24. MMAR:TowardsLossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/pdf/2410.10798), Arxiv 2024
+25. Randomized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2411.00776), Arxiv 2024
+26. Elucidating the design space of language models for image generation [Paper](https://arxiv.org/abs/2410.16257), Arxiv 2024
+27. Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment [Paper](https://arxiv.org/abs/2410.09347), ICLR 2025
+28. CART: Compositional Auto-Regressive Transformer for Image Generation [Paper](https://arxiv.org/html/2411.10180v1), Arxiv 2024
+29. CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/abs/2411.17787), Arxiv 2024
+30. X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824), Arxiv 2024
+31. JetFormer: An Autoregressive Generative Model of Raw Images and Text [Paper](https://arxiv.org/abs/2411.19722), Arxiv 2024
+32. Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2412.04431), Arxiv 2024
+33. Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/pdf/2412.04332), Arxiv 2024
+34. RandAR: Decoder-only Autoregressive Visual Generation in Random Orders [Paper](https://rand-ar.github.io/), Arxiv 2024
+35. FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/pdf/2412.15205), Arxiv 2024
+36. Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15119), Arxiv 2024
+37. Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15321), Arxiv 2024
+38. MetaMorph: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164), Arxiv 2024
+39. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/abs/2501.12327), Arxiv 2024
+40. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
+41. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
+42. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
