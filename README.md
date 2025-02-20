@@ -50,6 +50,7 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 44. Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models [Paper](https://arxiv.org/abs/2501.01423), Arxiv 2024
 45. One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression [Paper](https://arxiv.org/abs/2501.10064), Arxiv 2024
 46. QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.05178), Arxiv 2025
+47. FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/abs/2502.13967), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
