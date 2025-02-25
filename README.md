@@ -96,3 +96,5 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 40. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
 41. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
 42. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
+43. Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965), Arxiv 2025
+44. Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437), Arxiv 2025
