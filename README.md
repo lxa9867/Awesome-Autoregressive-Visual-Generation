@@ -51,6 +51,7 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 45. One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression [Paper](https://arxiv.org/abs/2501.10064), Arxiv 2024
 46. QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.05178), Arxiv 2025
 47. FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/abs/2502.13967), Arxiv 2025
+48. UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
@@ -96,5 +97,6 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 40. Can We Generate Images with CoT? Let’s Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926), Arxiv 2024
 41. Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://arxiv.org/pdf/2501.17811), Arxiv 2025
 42. VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://arxiv.org/pdf/2501.12327), Arxiv 2025
-43. Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965), Arxiv 2025
-44. Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437), Arxiv 2025
+43. Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2502.20388), Arxiv 2025
+44. Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965), Arxiv 2025
+45. Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437), Arxiv 2025
