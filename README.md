@@ -52,6 +52,8 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 46. QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.05178), Arxiv 2025
 47. FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/abs/2502.13967), Arxiv 2025
 48. UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321), Arxiv 2025
+49. NFIG: Autoregressive Image Generation with Next-Frequency Prediction [Paper](https://arxiv.org/pdf/2503.07076v1), Arxiv 2025
+50. 
 
 ## AutoRegressive Image Generation
 
