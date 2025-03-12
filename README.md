@@ -53,7 +53,9 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 47. FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/abs/2502.13967), Arxiv 2025
 48. UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321), Arxiv 2025
 49. NFIG: Autoregressive Image Generation with Next-Frequency Prediction [Paper](https://arxiv.org/pdf/2503.07076v1), Arxiv 2025
-50. 
+50. V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2503.07493), Arxiv 2025
+51. “Principal Components” Enable A New Language of Images [Paper](https://arxiv.org/abs/2503.08685), Arxiv 2025
+52. Robust Latent Matters: Boosting Image Generation with Sampling Error [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
