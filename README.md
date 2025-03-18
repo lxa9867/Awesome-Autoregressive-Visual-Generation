@@ -106,3 +106,4 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 45. Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965), Arxiv 2025
 46. Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437), Arxiv 2025
 47. FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction [Paper](https://arxiv.org/pdf/2502.20313), Arxiv 2025
+48. Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129), Arxiv 2025 
