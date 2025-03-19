@@ -109,3 +109,4 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 48. Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129), Arxiv 2025
 49. DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324), Arxiv 2025
 50. Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436), Arxiv 2025
+51. Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/pdf/2503.10568), Arxiv 2025
