@@ -111,3 +111,4 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 49. DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324), Arxiv 2025
 50. Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436), Arxiv 2025
 51. Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/pdf/2503.10568), Arxiv 2025
+52. Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696), Arxiv 2025
