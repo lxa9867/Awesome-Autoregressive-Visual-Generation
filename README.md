@@ -57,8 +57,8 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 51. “Principal Components” Enable A New Language of Images [Paper](https://arxiv.org/abs/2503.08685), Arxiv 2025
 52. Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization [Paper](https://arxiv.org/pdf/2503.11056), Arxiv 2025
 53. Tokenize Image as a Set [Paper](https://arxiv.org/pdf/2503.16425), Arxiv 2025
-54. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
-55. Robust Latent Matters: Boosting Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
+54. Robust Latent Matters: Boosting Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
+55. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
