@@ -59,7 +59,6 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 53. Tokenize Image as a Set [Paper](https://arxiv.org/pdf/2503.16425), Arxiv 2025
 54. Robust Latent Matters: Boosting Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
 55. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
-56. EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling [Paper](https://arxiv.org/abs/2502.09509), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
