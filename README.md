@@ -1,7 +1,7 @@
 # Awesome-Autoregressive-Visual-Generation
 This is a repo to track the latest autoregressive visual generation papers 🌟.
 
-<span style="color:red">In addition, I am also maintaining an open-source high-performance image tokenization framework [XQ-GAN](https://github.com/lxa9867/ImageFolder) 🚀. This framework supports both state-of-the-art multi-scale residual quantization (VAR/Infinity) and regular vector quantizations (VQ-GAN variants).</span>
+❗️❗️❗️**In addition, I am also maintaining an open-source high-performance image tokenization framework [XQ-GAN](https://github.com/lxa9867/ImageFolder) 🚀. This framework supports both state-of-the-art multi-scale residual quantization (VAR/Infinity) and regular vector quantizations (VQ-GAN variants).**
 
 
 ## Image Tokenizers
