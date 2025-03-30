@@ -1,7 +1,8 @@
 # Awesome-Autoregressive-Visual-Generation
 This is a repo to track the latest autoregressive visual generation papers 🌟.
 
-In addition, I am also maintaining an open-source high-performance image tokenization framework [XQ-GAN](https://github.com/lxa9867/ImageFolder) 🚀.
+<span style="color:red">In addition, I am also maintaining an open-source high-performance image tokenization framework [XQ-GAN](https://github.com/lxa9867/ImageFolder) 🚀. This framework supports both state-of-the-art multi-scale residual quantization (VAR/Infinity) and regular vector quantizations (VQ-GAN variants).</span>
+
 
 ## Image Tokenizers
 1. Neural Discrete Representation Learning [Paper](https://arxiv.org/abs/1711.00937), NeurIPS 2017
@@ -57,7 +58,7 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 51. “Principal Components” Enable A New Language of Images [Paper](https://arxiv.org/abs/2503.08685), Arxiv 2025
 52. Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization [Paper](https://arxiv.org/pdf/2503.11056), Arxiv 2025
 53. Tokenize Image as a Set [Paper](https://arxiv.org/pdf/2503.16425), Arxiv 2025
-54. Robust Latent Matters: Boosting Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
+54. Robust Latent Matters: Boosting Autoregressive Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
 55. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
 
 ## AutoRegressive Image Generation
@@ -114,3 +115,4 @@ In addition, I am also maintaining an open-source high-performance image tokeniz
 50. Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436), Arxiv 2025
 51. Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/pdf/2503.10568), Arxiv 2025
 52. Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696), Arxiv 2025
+53. Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198), Arxiv 2025
