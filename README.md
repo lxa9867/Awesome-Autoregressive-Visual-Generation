@@ -117,3 +117,4 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 51. Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/pdf/2503.10568), Arxiv 2025
 52. Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696), Arxiv 2025
 53. Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198), Arxiv 2025
+54. Harmonizing Visual Representations for Unified Multimodal Understanding and Generation【Paper](https://arxiv.org/pdf/2503.21979v1)
