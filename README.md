@@ -121,3 +121,4 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 54. Harmonizing Visual Representations for Unified Multimodal Understanding and Generation[Paper](https://arxiv.org/pdf/2503.21979v1), Arxiv 2025
 55. FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning [Paper](https://arxiv.org/abs/2503.23367), Arxiv 2025
 56. Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897), Arxiv 2025
+57. Transfer between Modalities with MetaQueries [Paper](https://arxiv.org/abs/2504.06256), Arxiv 2025
