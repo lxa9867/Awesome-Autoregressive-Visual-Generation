@@ -62,6 +62,7 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 55. Robust Latent Matters: Boosting Autoregressive Image Generation with Sampling Error Synthesis [Paper](https://arxiv.org/abs/2503.08354v1), Arxiv 2025
 56. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
 57. MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization [Paper](https://arxiv.org/pdf/2504.00999), Arxiv 2025
+58. GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
