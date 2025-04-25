@@ -124,3 +124,4 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 56. Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897), Arxiv 2025
 57. Transfer between Modalities with MetaQueries [Paper](https://arxiv.org/abs/2504.06256), Arxiv 2025
 58. PixelFlow: Pixel-Space Generative Models with Flow, [Paper](https://arxiv.org/search/?query=pixelflow&searchtype=all&source=header), Arxiv 2025
+59. Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2504.17789), Arxiv 2025
