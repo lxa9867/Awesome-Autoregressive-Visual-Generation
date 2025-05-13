@@ -129,3 +129,4 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 61. Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/abs/2504.18391), Arxiv 2025
 62. X-Fusion: Introducing New Modality to Frozen Large Language Models [Paper](https://arxiv.org/pdf/2504.20996), Arxiv 2025
 63. T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [Paper](https://arxiv.org/pdf/2505.00703), Arxiv 2025
+64. Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/abs/2505.07812), ICML 2025
