@@ -63,6 +63,7 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 56. Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2503.16430), Arxiv 2025
 57. MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization [Paper](https://arxiv.org/pdf/2504.00999), Arxiv 2025
 58. GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736), Arxiv 2025
+59. MedITok: A Unified Tokenizer for Medical Image Synthesis and Interpretation [Paper](https://arxiv.org/pdf/2505.19225), Arxiv 2025
 
 ## AutoRegressive Image Generation
 
@@ -130,3 +131,8 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 62. X-Fusion: Introducing New Modality to Frozen Large Language Models [Paper](https://arxiv.org/pdf/2504.20996), Arxiv 2025
 63. T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [Paper](https://arxiv.org/pdf/2505.00703), Arxiv 2025
 64. Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/abs/2505.07812), ICML 2025
+65. DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction [Paper](https://arxiv.org/abs/2505.21473), Arxiv 2025
+66. BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset [Paper](https://arxiv.org/html/2505.09568v1), Arxiv 2025
+67. DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297), Arixv 2025
+68. StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation [Paper](https://arxiv.org/pdf/2505.19874), Arxiv 2025
+69. TensorAR: Refinement is All You Need in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.16324), Arxiv 2025
