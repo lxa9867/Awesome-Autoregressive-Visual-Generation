@@ -136,3 +136,4 @@ This is a repo to track the latest autoregressive visual generation papers 🌟.
 67. DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297), Arixv 2025
 68. StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation [Paper](https://arxiv.org/pdf/2505.19874), Arxiv 2025
 69. TensorAR: Refinement is All You Need in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.16324), Arxiv 2025
+70. D-AR: Diffusion via Autoregressive Models [Paper](https://arxiv.org/abs/2505.23660), Arxiv 2025
